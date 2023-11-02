@@ -1,5 +1,11 @@
 ### Hi there, I'm Luke 👋
+
 I am a frontend developer and I build and design for the web!
+
+
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&perline=4)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=react,redux,styledcomponents,tailwind,figma&perline=5)](https://skillicons.dev)<br>
 
 ### My Values
 - 🙂 Bring pleasant digital experience to the user
