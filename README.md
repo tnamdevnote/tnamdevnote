@@ -18,8 +18,6 @@ I am a frontend developer and I build and design for the web!
 - 🎹 Playing piano
 - ☕️ Cofeeshop hopping
 
-### Connect With Me
-[Linkedin](https://www.linkedin.com/in/luke-tb-nam/)
 <!--
 **tnamdevnote/tnamdevnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
