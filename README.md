@@ -6,8 +6,8 @@ I am a frontend developer and I build and design for the web!
 ### Tech Stack
 #### Language
 <span>
-<img src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=fff" alt="css" />
 <img src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=fff" alt="html" />
+<img src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=fff" alt="css" />
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=fff" alt="javascript" />
 <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=fff" alt="typescript" />
 <img src="https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=fff" alt="php" />
