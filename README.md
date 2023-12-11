@@ -11,6 +11,7 @@ I am a frontend developer and I build and design for the web!
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=fff" alt="javascript" />
 <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=fff" alt="typescript" />
 <img src="https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=fff" alt="php" />
+<img src="https://img.shields.io/badge/SQL-%234479A1?logo=sql&logoColor=fff" alt="sql" />
 </span>
 
 #### Framework & Libraries
