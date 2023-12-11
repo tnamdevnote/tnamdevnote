@@ -1,4 +1,4 @@
-### Hi there, I'm Luke 👋
+### Hi there, I'm Taek 👋
 
 I am a frontend developer and I build and design for the web!
 
