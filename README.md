@@ -23,7 +23,9 @@ I am a frontend developer and I build and design for the web!
 <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js" alt="next.js" />
 <img src="https://img.shields.io/badge/Prisma-%232D3748?logo=prisma&logoColor=fff" alt="prisma" /><br>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?logo=tailwindcss&logoColor=fff" alt="tailwindcss" />
-<img src="https://img.shields.io/badge/Styled%20Components-%23DB7093?logo=styled-components&logoColor=fff" alt="styled-components" />
+<img src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=fff" alt="postman" />
+<img src="https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=fff" alt="node.js" />
+<img src="https://img.shields.io/badge/Express-%23000000?logo=express&logoColor=fff" alt="express" />
 </span>
 
 #### Tools & Platforms
