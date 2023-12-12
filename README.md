@@ -39,7 +39,9 @@ I am a frontend developer and I build and design for the web!
 <img src="https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=fff" alt="figma" />
 </span>
 
-#### Concepts
+#### Currently Learning
+- Fundamentals of Object Oriented Programming with Java
+- PHP
 
 ### My Values
 - 🙂 Bring pleasant digital experience to the user
