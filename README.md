@@ -40,8 +40,8 @@ I am a frontend developer and I build and design for the web!
 </span>
 
 #### Currently Learning
-- Fundamentals of Object Oriented Programming with Java
-- PHP
+- [Fundamentals of Object Oriented Programming with Java](https://www.edx.org/certificates/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java)
+- [PHP](https://www.youtube.com/watch?v=BUCiSSyIGGU&t=10225s)
 
 ### My Values
 - 🙂 Bring pleasant digital experience to the user
