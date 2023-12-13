@@ -40,8 +40,10 @@ I am a frontend developer and I build and design for the web!
 </span>
 
 #### Currently Learning
-- [Fundamentals of Object Oriented Programming with Java](https://www.edx.org/certificates/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java)
+- [October CMS](https://octobercms.com/)
 - [PHP](https://www.youtube.com/watch?v=BUCiSSyIGGU&t=10225s)
+- [Fundamentals of Object Oriented Programming with Java](https://www.edx.org/certificates/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java)
+
 
 ### My Values
 - 🙂 Bring pleasant digital experience to the user
