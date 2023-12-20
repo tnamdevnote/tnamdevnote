@@ -2,7 +2,6 @@
 
 I am a frontend developer and I build and design for the web!
 
-
 ### Tech Stack
 #### Language
 <span>
@@ -38,6 +37,8 @@ I am a frontend developer and I build and design for the web!
 <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=fff" alt="mysql" /><br>
 <img src="https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=fff" alt="figma" />
 </span>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnamdevnote&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Currently Learning
 - [Accessibility Best Practice](https://web.dev/learn/accessibility)
