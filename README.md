@@ -40,7 +40,7 @@ I am a frontend developer and I build and design for the web!
 </span>
 
 #### Currently Learning
-- [Accessibility](https://web.dev/learn/accessibility)
+- [Accessibility Best Practice](https://web.dev/learn/accessibility)
 - [PHP](https://www.youtube.com/watch?v=BUCiSSyIGGU&t=10225s)
 - [Fundamentals of Object Oriented Programming with Java](https://www.edx.org/certificates/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java)
 
