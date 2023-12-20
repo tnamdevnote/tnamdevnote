@@ -38,6 +38,9 @@ I am a frontend developer and I build and design for the web!
 <img src="https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=fff" alt="figma" />
 </span>
 
+<br>
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnamdevnote&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Currently Learning
