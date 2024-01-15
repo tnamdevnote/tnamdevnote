@@ -44,8 +44,8 @@ I am a frontend developer and I build and design for the web!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnamdevnote&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Currently Learning
+- [Testing in React.js with Jest/Vitest](https://www.udemy.com/course/react-testing-library/)
 - [Accessibility Best Practice](https://web.dev/learn/accessibility)
-- [PHP](https://www.youtube.com/watch?v=BUCiSSyIGGU&t=10225s)
 - [Fundamentals of Object Oriented Programming with Java](https://www.edx.org/certificates/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java)
 
 
