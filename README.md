@@ -6,6 +6,11 @@ I’m motivated by the challenge of improving development workflows to ensure co
 - Design System
 - Branding
 
+### Currently Learning
+- [Storybook](https://testing-library.com/docs/react-testing-library/intro/)
+- [Animation on the web](https://animations.dev/)
+
+
 ### Tech Stack
 #### Language
 <span>
@@ -40,14 +45,6 @@ I’m motivated by the challenge of improving development workflows to ensure co
 </span>
 
 <br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnamdevnote&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Currently Learning
-- [Storybook](https://testing-library.com/docs/react-testing-library/intro/)
-- [Accessibility Best Practice](https://web.dev/learn/accessibility)
-- [Fundamentals of Object Oriented Programming with Java](https://www.edx.org/certificates/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java)
 
 
 ### Hobbies
