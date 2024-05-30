@@ -4,7 +4,7 @@ I am a frontend developer and I build and design for the web! <br>
 I’m motivated by the challenge of improving development workflows to ensure consistent design and user experience throughout a product. Topics that interests me are:
 - Reusable UI components
 - Design System
-- Branding
+- Component Driven Development
 
 ### Currently Learning
 - [Storybook](https://testing-library.com/docs/react-testing-library/intro/)
